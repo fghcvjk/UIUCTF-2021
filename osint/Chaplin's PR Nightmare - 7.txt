@@ -1,0 +1,13 @@
+ Chaplin's PR Nightmare - 7
+50
+osint
+
+Chaplin left some code up on GitHub which may be the actual PR nightmare I hope not though... Leaked code is bad. Find it!!!
+
+The inner content of this flag begins with "th"
+
+author: Thomas
+
+Hint
+
+OUtlNDQ4ME1pY1U=

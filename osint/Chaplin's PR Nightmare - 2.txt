@@ -1,0 +1,9 @@
+ Chaplin's PR Nightmare - 2
+50
+osint beginner
+
+Charlie made an advertisement to promote his company, he is using the modern media platform YouTube to present it! Can you find it?
+
+The inner content of this flag begins with "ch"
+
+author: Thomas

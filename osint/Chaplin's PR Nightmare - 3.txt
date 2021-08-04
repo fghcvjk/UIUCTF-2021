@@ -1,0 +1,14 @@
+ Chaplin's PR Nightmare - 3
+50
+osint
+
+Charlie even has a website!!! Find it and look around!
+
+The inner content of this flag begins with "ch"
+
+author: Thomas
+
+Hint
+
+Google sites is a really easy way to make a personal website.
+

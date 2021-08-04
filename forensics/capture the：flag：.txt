@@ -1,0 +1,18 @@
+ capture the :flag:
+311
+forensics
+
+It's always in the place you least expect
+
+Hints:
+
+    LSB
+    RGB
+    If you have found something previously, try looking again
+    Remember to get the full image
+
+author: spamakin
+
+Hint
+
+Images store more than an image

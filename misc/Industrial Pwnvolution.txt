@@ -1,0 +1,23 @@
+ Industrial Pwnvolution
+449
+misc scripting
+
+We've got this brand new buffer factory pumping data out... We aren't sure what the data is but we do have tests for it... Can you figure out what is going on and fix our new industrialized data. I'd say around 100000 fixed buffers is good.
+
+nc industrialization.chal.uiuc.tf 1337 author: Thomas
+
+Hint
+
+This isn't neccesarily a hint for this challenge, but hold on to this code for future UIUCTF's ;)
+
+root@ubuntu:~# nc industrialization.chal.uiuc.tf 1337
+Welcome to the bufactory, where we make and fix buffers!
+We havent exactly figured out what the rules are, but here are some right and wrong examples.
+GOOD - "{Cheeseburger}<Pizza>(Fries)(Sodas)" -> "{Cheeeeboogor}<Pizza>(Sodas)(Stuff)"
+BAD  - "{Cheeseburger}<Pizza>(Fries)(Sodas)" -> "{Cheeseburger}<Peeza>(Tacos)(Stuff)"
+GOOD - "{AAAA}FILLER(BBBB)FILLER{CCCC}FILLER<DDDD>FILLER(EEEE)FILLER" -> "{BBBB}FILLER(EEEE)FILLER{DDDD}FILLER<DDDD>FILLER(GGGG)FILLER"
+BAD  - "{AAAA}FILLER(BBBB)FILLER{CCCC}FILLER<DDDD>FILLER(EEEE)FILLER" -> "{AAAA}FILLER(DDDD)FILLER{CCCC}FILLER<EEEE>FILLER(FFFF)FILLER"
+Ok now you try a few times!
+{oYq*Rm|}<~,$o_I>{Q[^FXP}bu~l8'j($CUs)tYCp(Q4m~){0Ud,I}<6=Hx`>{$`}
+Input > ls
+Failed! Actual:Correct:~,$o_I

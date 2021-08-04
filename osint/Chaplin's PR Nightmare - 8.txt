@@ -1,0 +1,14 @@
+ Chaplin's PR Nightmare - 8
+88
+osint extreme
+
+Straightup doxx Charlie by finding the email he set all these accounts up with, and investigate it.
+
+The inner content of this flag begins with "b0"
+
+author: Thomas
+
+Hint
+
+This challenge was inspired by something previous.
+

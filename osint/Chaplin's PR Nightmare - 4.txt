@@ -1,0 +1,9 @@
+ Chaplin's PR Nightmare - 4
+50
+osint
+
+Charlie left another flag on his company's website. Maybe you have to reach out to him???
+
+The inner content of this flag begins with "w3"
+
+author: Thomas
